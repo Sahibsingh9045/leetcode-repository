@@ -17,7 +17,7 @@ public class search {
         return 0;
     }
     public static void main(String[] args) {
-        int array[]= {10,20,30,40,50,60,70};
+        int array[]= {10,20,30,40,50,60,70,80,90,100};
         int target = 60;
         System.out.println(index(array,target));
     }
