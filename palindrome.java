@@ -17,7 +17,7 @@ public class palindrome {
         return false;
     }
     public static void main(String[] args) {
-        int x = 10101;
+        int x = 303;
         System.out.println(ispalindrome(x));
         
     }
